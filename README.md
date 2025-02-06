@@ -3,6 +3,7 @@
 ## Overview of the Analysis
 
 For this machile learning model, a set of lending data was analyzed that included:
+
 the size of the loan
 its interest rate
 the borrower's income
