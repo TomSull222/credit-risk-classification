@@ -12,4 +12,7 @@ The number of accounts the borrower held,
 Derogatory marks against the borrower, 
 The total debt.
 
-The dataset was then separated and split into training and testing sets in order to understand the accuracy of the model.  A logistic regression model was implemented using sklearn and fit to our training data to allow us to make predictions on the loans from our lending data.  
+The dataset was then separated and split into training and testing sets in order to understand the accuracy of the model.  A logistic regression model was implemented using sklearn and fit to our training data to allow us to make predictions on the loans from our lending data. After making our predictions, the model's performance was evaluated by calculating accuracy scores, as well as, generating a confusion matrix and classification report.
+
+## Results
+
