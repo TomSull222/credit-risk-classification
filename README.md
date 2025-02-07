@@ -20,4 +20,4 @@ This section will describe the accuracy score, the precision score, and recall s
 
 <img width="452" alt="Screenshot 2025-02-07 at 9 25 17 AM" src="https://github.com/user-attachments/assets/c1c24ec7-12b2-4e29-843d-5bfdf2f608c8" />
 
-* With an accuracy score of 99%, the model proves to successfully do its job at predicting the classifications of healthy [0] and high-risk [1] loans at an exceptional rate. 
+* With an accuracy score of 99%, the model proves to successfully do its job at predicting the classifications of healthy `0` and high-risk `1` loans at an exceptional rate. 
