@@ -17,4 +17,5 @@ The dataset was then separated and split into training and testing sets in order
 ## Results
 
 This section will describe the accuracy score, the precision score, and recall score of the machine learning model:
-- 
+
+<img width="452" alt="Screenshot 2025-02-07 at 9 25 17 AM" src="https://github.com/user-attachments/assets/c1c24ec7-12b2-4e29-843d-5bfdf2f608c8" />
