@@ -16,3 +16,5 @@ The dataset was then separated and split into training and testing sets in order
 
 ## Results
 
+This section will describe the accuracy score, the precision score, and recall score of the machine learning model:
+- 
